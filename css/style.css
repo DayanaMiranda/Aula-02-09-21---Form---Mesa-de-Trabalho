@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    text-align: center;
+}
+
+main img {
+    width: 250px;
+}
+
+label {
+    display:block
+}
+input, textarea {
+    margin-bottom: 15px;
+}
+
+option {
+    display: block;
+}
+
+select {
+    display: block;
+    margin: 0px auto 15px;
+}
+
+body{
+    text-align: center;
+    font-family: sans-serif;
+    background-image:url(../img/fundo.jpg);
+}
